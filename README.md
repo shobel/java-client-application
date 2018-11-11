@@ -9,7 +9,7 @@ Client application with GUI communicating with a server over sockets
 #### Set up client
 1. clone this project
 2. Run client with command: <br>
-  `java -jar {project_home}/output/artifacts/DABIClient_jar/DABIClient.jar`
+  `java -jar {java-client-application}/output/artifacts/DABIClient_jar/DABIClient.jar`
 3. Switch the connection ON to begin communication with the server
 
 ### Screenshots
