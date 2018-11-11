@@ -4,10 +4,12 @@ Client application with GUI communicating with a server over sockets
 ### Steps to run
 ##### Set up server
 1. clone project called java-server-application
-2. Run server with command: `java -jar {java-server-application}/output/artifacts/DABIServer_jar/DABIServer.jar`
+2. Run server with command: <br>
+  `java -jar {java-server-application}/output/artifacts/DABIServer_jar/DABIServer.jar`
 #### Set up client
 1. clone this project
-2. Run client with command: `java -jar {project_home}/output/artifacts/DABIClient_jar/DABIClient.jar`
+2. Run client with command: <br>
+  `java -jar {project_home}/output/artifacts/DABIClient_jar/DABIClient.jar`
 3. Switch the connection ON to begin communication with the server
 
 ### Screenshots
