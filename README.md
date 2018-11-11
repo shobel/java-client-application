@@ -10,4 +10,6 @@ Client application with GUI communicating with a server over sockets
 2. Run client with command: `java -jar {project_home}/output/artifacts/DABIClient_jar/DABIClient.jar`
 3. Switch the connection ON to begin communication with the server
 
-<img src="/screenshots/disconnected.png" width="350"/>   <img src="/screenshots/connected.png" width="350"/>
+### Screenshots
+
+<img src="/screenshots/disconnected.png" width="350"/>  <img src="/screenshots/connected.png" width="350"/>
