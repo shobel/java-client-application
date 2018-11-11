@@ -1,2 +1,2 @@
-# client-server-application
-Client and server application communicating over sockets
+# client component in client-server application
+Client application with GUI communicating with a server over sockets
